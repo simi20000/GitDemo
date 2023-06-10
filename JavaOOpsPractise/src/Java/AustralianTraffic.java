@@ -19,6 +19,7 @@ public class AustralianTraffic implements CentralTraffic, ContinentalTraffic{
 	public void GreenGo() {
 		// TODO Auto-generated method stub
 		System.out.println("I am greengo");
+		System.out.println("simran is best");
 		
 	}
 
