@@ -21,6 +21,11 @@ public class AustralianTraffic implements CentralTraffic, ContinentalTraffic{
 		System.out.println("I am greengo");
 		System.out.println("simran is best");
 		
+		
+	}
+	
+	public void AddTestCase() {
+		System.out.println("new test case");
 	}
 
 	@Override
